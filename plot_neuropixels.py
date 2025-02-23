@@ -8,7 +8,7 @@ from brainrender.actors import Cylinder
 from brainrender import VideoMaker
 from brainrender import Animation
 from brainrender import settings
-from bg_atlasapi import show_atlases
+#from bg_atlasapi import show_atlases
 
 # Extension to cylinder class to allow specification of start and end coordinates.
 # Thanks to Ian Hawes for this.
